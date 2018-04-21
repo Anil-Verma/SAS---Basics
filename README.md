@@ -1,4 +1,4 @@
-# SAS---Basics
+# SAS-Basics Programming
 ### Author : Anil Verma
 ### commenced on: 21st April, 2018
 ### Motive: To demonstrates Basic SAS programming skills
